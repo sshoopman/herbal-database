@@ -1,0 +1,44 @@
+
+body {
+	background-image: url("background.jpeg");
+	background-size: cover;
+	text-align: left;
+	position: relative;
+	left: +200px;
+	min-height: 100vh;
+	max-width: 780px;
+	margin: 0 auto;
+}
+
+h2 {
+	font-family: 'Poiret One', cursive;
+	text-align: left;
+}
+
+a {
+	font-family: 'Poiret One', cursive;
+	text-align: left;
+}
+
+a:visited {
+	text-decoloration: none;
+	color: black;
+}
+
+a:hover, a:active, a:focus {
+	color: steelblue;
+}
+
+p {
+	font-family: 'Poiret One', cursive;
+	text-align: left;}
+
+li {
+	font-family: 'Poiret One', cursive;
+	text-align: left;
+}
+
+img {
+	float: right;
+	border: 1px solid black;
+}
