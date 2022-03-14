@@ -1,6 +1,7 @@
 
 body {
 	background-image: url("background.jpeg");
+	background-image: width 100%;
 	background-size: cover;
 	text-align: left;
 	position: relative;
